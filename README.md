@@ -5,5 +5,5 @@ $ cd podman-test-mc
 
 $ podman build --tag bug-mc:1.0 .
 
-$ podman podman run localhost/bug-mc:1.0
+$ podman run localhost/bug-mc:1.0
 ```
